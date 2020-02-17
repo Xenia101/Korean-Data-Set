@@ -16,7 +16,7 @@ Total Data Count : **611,346**
 
 ## Data Description
 
-```korean_p2p_'number of data'.csv```
+File Name Type : ```korean_p2p_'number of data'.csv```
 
 | Index | Korean file name |
 | ----- |:-------------:|
@@ -24,8 +24,7 @@ Total Data Count : **611,346**
 | 2     | Sample        |
 | 3     | Sample        |
 
-```korean_p2p_'number of data'_option.csv```
-
+File Name Type : ```korean_p2p_'number of data'_option.csv```
 
 | Publisher ID |Classification |Capacity| Korean file name |
 | ----- |:-------------:|:-------------:|:-------------:|

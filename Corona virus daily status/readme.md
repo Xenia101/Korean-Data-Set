@@ -4,7 +4,7 @@
 
 ## File Name Description
 
-Total Data Count : 
+Total Data Period : 2020.02.
 
 ## Data Description
 

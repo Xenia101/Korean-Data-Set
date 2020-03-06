@@ -4,7 +4,7 @@
 
 ## File Name Description
 
-Total Data Period : 2020.02.
+Total Data Period : **2020-01-23** ~ **2020-03-05**
 
 ## Data Description
 

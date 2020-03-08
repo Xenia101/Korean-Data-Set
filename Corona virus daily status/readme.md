@@ -1,6 +1,6 @@
 # Corona virus daily status Dataset
 
-**Corona virus** daily status Dataset
+**Corona virus** daily status Dataset [Korea]
 
 ## File Name Description
 

@@ -8,7 +8,7 @@ Total Data Period : **2020-01-23** ~ **2020-03-05**
 
 ## Data Description
 
-File Name Type : ```korean_p2p_'number of data'.csv```
+File Name Type : ```Corona 2020-01-23_2020-03-05.csv```
 
 | Date | State |
 | ----- |:-------------:|

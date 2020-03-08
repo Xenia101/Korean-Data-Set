@@ -17,5 +17,3 @@ File Name Type : ```korean_p2p_'number of data'.csv```
 |  2020-01-25    | 2      |
 
 ## References
-
-https://docs.google.com//d/1fODH5PZJw9jxwV2GRe85BRQgc3mxdyyIpQ0I6MDJKXc/htmlview#gid=0
